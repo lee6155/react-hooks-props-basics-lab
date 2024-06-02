@@ -54,6 +54,11 @@ nav a:active {
   padding: 1rem;
 }
 
+#Links {
+  text-align: center;
+  padding-bottom: 50px
+}
+
 #home {
   background-color: cornsilk;
 }
